@@ -39,7 +39,6 @@ public class GenController extends BaseController
 {
     @Autowired
     private IGenTableService genTableService;
-
     @Autowired
     private IGenTableColumnService genTableColumnService;
 
