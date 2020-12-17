@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration;
 import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 
 /**
- * 网关启动程序
+ * 网关启动程序（必须启动）
  * 
  * @author ruoyi
  */

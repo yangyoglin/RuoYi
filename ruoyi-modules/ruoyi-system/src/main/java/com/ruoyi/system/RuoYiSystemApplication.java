@@ -7,7 +7,7 @@ import com.ruoyi.common.security.annotation.EnableRyFeignClients;
 import com.ruoyi.common.swagger.annotation.EnableCustomSwagger2;
 
 /**
- * 系统模块
+ * 系统模块（基础模块，必须启动）
  * 
  * @author ruoyi
  */

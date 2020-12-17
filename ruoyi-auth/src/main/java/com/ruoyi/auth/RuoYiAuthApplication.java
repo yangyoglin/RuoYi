@@ -1,11 +1,11 @@
 package com.ruoyi.auth;
 
+import com.ruoyi.common.security.annotation.EnableRyFeignClients;
 import org.springframework.boot.SpringApplication;
 import org.springframework.cloud.client.SpringCloudApplication;
-import com.ruoyi.common.security.annotation.EnableRyFeignClients;
 
 /**
- * 认证授权中心
+ * 认证授权中心（必须启动）
  * 
  * @author ruoyi
  */
